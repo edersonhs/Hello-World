@@ -1,10 +1,10 @@
 # Aula de Linguagem Markdown
 ---
-Podemos _*misturar*_ configurações
+Podemos *_misturar_* configurações
 
 Lista numerada:
 1. Teste
-   2. Subitem de teste 1 (Precisa de 3 espaços na frente)
+   3. Subitem de teste 1 (Precisa de 3 espaços na frente)
 
 Lista de tarefas:
 - [x] Tarefa n1 (Completa)
