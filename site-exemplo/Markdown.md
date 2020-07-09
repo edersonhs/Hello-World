@@ -3,8 +3,8 @@
 Podemos *_misturar_* configurações
 
 Lista numerada:
-1. Teste
-   3. Subitem de teste 1 (Precisa de 3 espaços na frente)
+1. Teste 1
+   1. Subitem de teste 1
 
 Lista de tarefas:
 - [x] Tarefa n1 (Completa)
